@@ -1,30 +1,1108 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "8742",
+      "name": ""
+    },
+    {
+      "id": "fde7",
+      "name": ""
+    },
+    {
+      "id": "ed4c",
+      "name": ""
+    },
+    {
+      "id": "126e",
+      "name": ""
+    },
+    {
+      "id": "1aed",
+      "name": ""
+    },
+    {
+      "id": "b06a",
+      "name": "Ke"
+    },
+    {
+      "id": "0bd2",
+      "name": "Ken"
+    },
+    {
+      "id": "8a01",
+      "name": "Ken"
+    },
+    {
+      "id": "a53d",
+      "name": "Ken"
+    },
+    {
+      "id": "e1cc",
+      "name": "Ken"
+    },
+    {
+      "id": "93bd",
+      "name": "Ken"
+    },
+    {
+      "id": "dbc1",
+      "name": "Ken"
+    },
+    {
+      "id": "239a",
+      "name": "Ken"
+    },
+    {
+      "id": "e332",
+      "name": "Ken"
+    },
+    {
+      "id": "550b",
+      "name": "Ken"
+    },
+    {
+      "id": "e9cc",
+      "name": "Ken"
+    },
+    {
+      "id": "40a1",
+      "name": "Ken"
+    },
+    {
+      "id": "0955",
+      "name": "Ken"
+    },
+    {
+      "id": "86bd",
+      "name": "Ken"
+    },
+    {
+      "id": "4fe7",
+      "name": "Ken"
+    },
+    {
+      "id": "fc70",
+      "name": "Ken"
+    },
+    {
+      "id": "ff0e",
+      "name": "Ken"
+    },
+    {
+      "id": "51cf",
+      "name": "Ken"
+    },
+    {
+      "id": "37a8",
+      "name": "Ken"
+    },
+    {
+      "id": "78f8",
+      "name": "Ken"
+    },
+    {
+      "id": "489e",
+      "name": "Ken"
+    },
+    {
+      "id": "f83c",
+      "name": "Ken"
+    },
+    {
+      "id": "b204",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "05c0",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "f8a4",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "bd0e",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "1247",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "a5c1",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "676c",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "8fef",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "ac79",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "5da5",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "7068",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "cffc",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "965a",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "69fd",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "04ea",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "66ff",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "2fce",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "b9eb",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "a601",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "99ae",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "b6d9",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "8c36",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "8101",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "3036",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "ec5b",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "7087",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "9eeb",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "2b4c",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "71a0",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "689e",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "3226",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "2d5e",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "3d91",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "1d50",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "d241",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "f07a",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "772b",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "bbff",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "988b",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "9113",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "e76a",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "30e8",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "6408",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "a288",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "c31f",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "b5f4",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "5012",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "2008",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "b851",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "7db1",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "c649",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "7617",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "cd8d",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "b343",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "7801",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "e080",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "4908",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "9d1d",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "8310",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "a99b",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "398d",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "e11e",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "88a0",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "4fff",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "8092",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "09ba",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "fa74",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "1973",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "4c44",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "aca0",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "0e6a",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "6bc5",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "1beb",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "fa1d",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "d8cb",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "4228",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "ef80",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "8dcf",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "ab6a",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "502f",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "1bf5",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "ea76",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "cdf1",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "0b51",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "cc73",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "68b4",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "1410",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "09d9",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "9165",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "0a0c",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "76a3",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "6a9a",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "6add",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "1220",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "ad3e",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "f05a",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "fe35",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "1cfb",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "59d0",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "24e6",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "ea3e",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "1653",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "59ea",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "255a",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "7726",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "a42c",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "a521",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "5e4c",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "f849",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "6fbb",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "5ecc",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "e134",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "07fc",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "9ca3",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "7867",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "65f3",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "dc4b",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "eb46",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "fa81",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "bd8a",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "6793",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "5794",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "6088",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "c006",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "6270",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "94d2",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "3937",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "076c",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "76fb",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "8871",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "f8f9",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "c459",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "5598",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "f367",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "e0d5",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "5538",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "c8b2",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "167d",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "98a7",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "9f79",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "97ff",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "ef83",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "1eb3",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "697d",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "1101",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "5186",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "5efe",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "a310",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "4509",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "aec4",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "c79c",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "0d3f",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "73bd",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "3520",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "5ae8",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "d774",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "1868",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "c23e",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "7740",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "0133",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "df40",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "4c89",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "5869",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "2174",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "337a",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "d015",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "2f76",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "8933",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "8e69",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "f761",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "3db6",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "f44b",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "f3f3",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "3ab3",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "3e4b",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "fdc1",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "a2d2",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "ef3b",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "fec3",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "2192",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "bc11",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "3f88",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "0382",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "4bca",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "3e69",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "a36a",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "c9eb",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "6c2d",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "9f8c",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "fb73",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "50e5",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "2797",
+      "name": "Ken",
+      "email": "@ken123"
+    },
+    {
+      "id": "9843",
+      "name": "Ken",
+      "email": "@ken123"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
